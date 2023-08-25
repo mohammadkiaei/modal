@@ -10,4 +10,4 @@ closeBtn.addEventListener('click', function () {
    modalContainer.classList.remove('show');
 });
 
-// Developed by SeyedMohammadMahdi kiaei
+// Developed by Mohammad kiaei
