@@ -1,5 +1,5 @@
 # Modal
-this is modal project that you can use in your projects.<br/>
+This is a modal project that you can use in your projects.<br/>
 See Projects [LIVE](https://mohammadkiaei.github.io/modal/).
 <br/>
 <br/>
